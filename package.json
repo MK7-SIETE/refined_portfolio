@@ -1,0 +1,19 @@
+{
+  "name": "betsaleel-mukuba-portfolio",
+  "version": "2.0.0",
+  "description": "Professional portfolio — Betsaleel Mukuba, Software Engineer & Full Stack Developer",
+  "private": true,
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["portfolio", "fullstack", "developer", "zambia"],
+  "author": "Betsaleel Mukuba <mukuba950@gmail.com>",
+  "license": "UNLICENSED"
+}
